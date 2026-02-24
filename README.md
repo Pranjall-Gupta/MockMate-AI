@@ -20,3 +20,5 @@ The platform follows a decoupled micro-services-oriented architecture:
 * **Client:** Vite-powered React SPA with glass-morphism UI.
 * **API Gateway:** Secure Spring Boot REST API with JWT-based authentication.
 * **AI Layer:** Multi-modal integration using Azure Speech Service and Azure OpenAI (GPT-4o).
+
+---
